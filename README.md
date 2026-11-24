@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0F172A,100:0369A1&height=180&section=header&text=RADJABOV%20AZIZBEK&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer&descSize=17&descAlignY=62&descColor=CBD5E1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0F172A,100:0369A1&height=180&section=header&text=RAJABOV%20AZIZBEK&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer&descSize=17&descAlignY=62&descColor=CBD5E1" width="100%" />
 </p>
 
 <p align="center">
